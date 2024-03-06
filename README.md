@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ritikgupta15
-- 👀 I’m interested in DevOps.
 - 🌱 I’m currently working at Capgemini as a Software Engineer.
+-  👀 I’m also interested in DevOps.
 - 📫 How to reach me https://www.linkedin.com/in/ritikgupta15
 - 😄 Pronouns: He/His
 
